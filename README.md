@@ -1,4 +1,4 @@
-# IDO 5.3 -O2 Testing
+# IDO 5.3 -O2 Sandbox
 A sandbox to test and document different `-O2` compilation scenarios with IDO 5.3.
 
 ## Docs
